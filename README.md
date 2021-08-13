@@ -8,17 +8,17 @@ A ideia desse projeto é utilizar uma API de busca CEP(https://viacep.com.br).on
 _______________________________
 # 🚀 Principais Tecnologias utilizadas
 _______________________________
-<LI>HTML (com bootstrap)</LI>
-<LI>Requisiçao AJAX</LI>
-<LI>Aplicaçao Backend</LI>
-<LI>Uso de API (Tanto FrontEnd quanto BackEnd)</LI>
+- Aplicação dividida em back-end e front-end
+- Bootstrap
+- Axios (back-end)
+- API externa (Via CEP)
 ___________________________
 # 🛠 Como baixar o projeto
 _______________________________
 
 #####  Clonar repositorio
 `#git clone https://github.com/ruann3res/ConsultaCep.git`
-##### Entrar no diretorio
+##### Entrar no diretório
 `cd  ConsultaCep`
 #####  Instalar o as dependencias
 `#npm install`
