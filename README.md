@@ -17,14 +17,14 @@ ___________________________
 _______________________________
 
 #####  Clonar repositorio
-`#Clonar repositorio https://github.com/ruann3res/ConsultaCep.git`
+`#git clone https://github.com/ruann3res/ConsultaCep.git`
 ##### Entrar no diretorio
 `cd  ConsultaCep`
 #####  Instalar o as dependencias
 `#npm install`
 ##### Iniciar a API 
 `# npm run server` 
-##### Iniciar o projeto
+##### Iniciar o FrontEnd
 `# npm start `
 _______________________________
 ###### Desenvolvido por mim, Ruan P.  A. Neres😀!
