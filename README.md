@@ -19,7 +19,7 @@ _______________________________
 #####  Clonar repositorio
 `#git clone https://github.com/ruann3res/ConsultaCep.git`
 ##### Entrar no diretório
-`cd  ConsultaCep`
+`#cd  ConsultaCep`
 #####  Instalar o as dependencias
 `#npm install`
 ##### Iniciar a API 
