@@ -20,7 +20,7 @@ _______________________________
 `#Clonar repositorio https://github.com/ruann3res/ConsultaCep.git`
 ##### Entrar no diretorio
 `cd  ConsultaCep`
-#####  Instalar o NodeJS
+#####  Instalar o as dependencias
 `#npm install`
 ##### Iniciar a API 
 `# npm run server` 
